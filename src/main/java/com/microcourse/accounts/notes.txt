@@ -1,0 +1,1 @@
+parece quye hay un propblema en las validaciones de numero de telefono en las pruebas de postman
